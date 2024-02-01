@@ -38,8 +38,8 @@ The following Python libraries were used in this project:
 # Folders
 The project files are divided between the following folders:
 
-Project Management: Project Brief
-Data (Data files not uploaded to GitHub due to size.)
-Scripts: The Jupyter notebooks containing the coding for the analysis.
-Analysis: The visualizations used for developing and explaining insights.
-Sent to Client: The final report presented in Excel
+- Project Management: Project Brief
+- Data (Data files not uploaded to GitHub due to size.)
+- Scripts: The Jupyter notebooks containing the coding for the analysis.
+- Analysis: The visualizations used for developing and explaining insights.
+- Sent to Client: The final report presented in Excel
